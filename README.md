@@ -32,7 +32,7 @@ After starting the development server, open your browser and navigateto `http://
 
 ## Dependencies
 
-- **React*: Javascript library for building the application
+- **React**: Javascript library for building the application
 - **CSS3**: Used for styling with handcrafted CSS.
 
 ## Contact
