@@ -1,9 +1,9 @@
 ## Tic-Tac-Toe
 
 ## Features
-- **Two people can play the game.
-- **It gives who won & lost.
-- **We can reset the game to start again.
+- **Two people can play the game.**
+- **It gives who won & lost.**
+- **We can reset the game to start again.**
 
 ## This project implements a Tic-Tac-Toe game using React.
 
