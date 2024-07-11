@@ -30,6 +30,11 @@
 
 After starting the development server, open your browser and navigateto `http://localhost:3000` to view the application.
 
+## Dependencies
+
+- **React*: Javascript library for building the application
+- **CSS3**: Used for styling with handcrafted CSS.
+
 ## Contact
 
 For any inquires or feedback, feel free to reach out via [nakkarohithkumar@gmail.com]
